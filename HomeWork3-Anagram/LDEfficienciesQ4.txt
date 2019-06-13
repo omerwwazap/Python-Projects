@@ -1,0 +1,19 @@
+
+Question 1 Checking Off #-----------------------------------------------
+Best case is O(logn^2), we find the error as soon as possible, 
+worst case is Ω(n^2), we find the error at the last step of the loop.
+
+Question 2 Sort and Compare #-------------------------------------------
+Apparently, the sort in python has O(n) and Ω(nlogn) efficiency classes.(Checked Timsort)
+best case would be O(n) and worst would be Ω(nlogn)
+
+Question 3 Count and Compare #--------------------------------------------------
+No nested loops.
+Two iterations that count n times (always). 
+Comparing the two lists takes 26 steps.
+Since there are no break conditions for both for loops 
+The best case is O(n)
+The worst case is Ω(n2)
+
+
+Comparing these algorithms, fastest one is count&compare, then sort&compare and finally checkoff algorithm.
