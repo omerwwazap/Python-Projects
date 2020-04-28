@@ -1,6 +1,8 @@
 # Python-Projects
 Python Algorithm Projects
 
+Entire Repo is made to archive the lab parts of a course
+
 - [Basics](/HomeWork1-Basics):
   - Input/output
   - Expressions
