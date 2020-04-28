@@ -10,10 +10,6 @@ for i in range(len(a)-2):
 print(a)
 
 
-
-
-
-
 for i in range(len(b)-2):
     for j in range(len(b)-i-2):
         if b[j]>b[j+1]:

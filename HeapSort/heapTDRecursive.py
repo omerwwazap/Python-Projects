@@ -7,9 +7,6 @@ def HeapTopDown(H, item, index):
         heapify(H,index,i//2)
         i=i//2
 
-    
-
-
 # To heapify subtree rooted at index i. n is size of heap
 def heapify(arr, n, i):
     largest = i  # Initialize largest as root

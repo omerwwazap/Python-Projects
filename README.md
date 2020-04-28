@@ -23,6 +23,7 @@ Python Algorithm Projects
 
 - [BoyerMooreHospool](/HomeWork4-BoyerMooreHospool):
   - Morse code solver for a givin string like "-.. .- -- -- / .--. -.-- .... - --- -."
+  - BoyerMooreHospool string search algorithm
 
 - [Divisor Efficiencies Comp](/Python_Divisor_Efficiencies_Comp):
   - Common Divisor Efficiency
@@ -30,4 +31,20 @@ Python Algorithm Projects
 - [Dynamic Programming](/HomeWork5-DynamicProgramming):
   - Find the smallest sum in a descent from the triangle apex to its base through a sequence of adjacent numbers in an equilateral triangle with n numbers in its base
 
+- [HeapSort](/HeapSort):
+  - Diffrent Versions
+
+- [Sort Other](/Sort-Other):
+  - Compare Sorts
+  - Selection Sort
+  - Insertion Sort
+  - Bubble Sort
+  - Short Bubble Sort
+  - Quick Sort
+  - Merge Sort
+- [Other Algorithms](/Other-Algorithms):
+  - Djktras Algorithm
+  - Prims Algorithm
+  
+  
 
