@@ -4,7 +4,7 @@ Python Algorithm Projects
 
 Entire Repo is made to archive the lab parts of a course
 
-- [Basics](/HomeWork1-Basics/):
+- [Basics](Python%20Basics/):
   - Input/output
   - Expressions
   - If conditions
@@ -12,39 +12,39 @@ Entire Repo is made to archive the lab parts of a course
   - Functions
   - Randint/time
 
-- [BubbleSort](/HomeWork2-Bubble_Sort/):
-  - Bubble sort
-  - File read
-  - string split/strip/upper/lower functions
+- [Desktop Notification](Desktop_Notifications/)
+- [Language Detection](Language%20Detection/)
 
-- [Anagram](/HomeWork3-Anagram/):
-  - Answer by Checking Off
-  - Answer by Sort and Compare
-  - Answer by Count and Compare
-
-- [Count Number Occurence](/Count_Number_Occurence/):
-
-- [BoyerMooreHospool](/HomeWork4-BoyerMooreHospool/):
-  - Morse code solver for a givin string like "-.. .- -- -- / .--. -.-- .... - --- -."
-  - BoyerMooreHospool string search algorithm
+- Algorithm Programs:
+  - [BubbleSort](Algorithm%20Programs/HomeWork2-Bubble_Sort/)
+    - Bubble sort
+    - File read
+    - string split/strip/upper/lower functions
+  - [HeapSort](Algorithm%20Programs/HeapSort)
+    - Different Versions
+  - [Sort Other](Algorithm%20Programs/Sort-Other)
+    - Compare Sorts
+    - Selection Sort
+    - Insertion Sort
+    - Bubble Sort
+    - Short Bubble Sort
+    - Quick Sort
+    - Merge Sort
+  - [Other Algorithms](Algorithm%20Programs/Other-Algorithms):
+    - Dijkstra's Algorithm
+    - Prims Algorithm
+  - [Boyer Moore Hospool](Algorithms%20Programs/Boyer%20Moore%20Horspool/):
+    - Morse code solver for a givin string like "-.. .- -- -- / .--. -.-- .... - --- -."
+    - Boyer Moore Hospool string search algorithm
+  - [Anagram](Algorithms%20Programs/Anagram/):
+    - Answer by Checking Off
+    - Answer by Sort and Compare
+    - Answer by Count and Compare
+  
+- [Count Number Occurrence](/Count_Number_Occurence/)
 
 - [Divisor Efficiencies Comp](/Python_Divisor_Efficiencies_Comp/):
   - Common Divisor Efficiency
 
 - [Dynamic Programming](HomeWork5-Dynamic_Programming/):
   - Find the smallest sum in a descent from the triangle apex to its base through a sequence of adjacent numbers in an equilateral triangle with n numbers in its base
-
-- [HeapSort](/HeapSort):
-  - Diffrent Versions
-
-- [Sort Other](/Sort-Other):
-  - Compare Sorts
-  - Selection Sort
-  - Insertion Sort
-  - Bubble Sort
-  - Short Bubble Sort
-  - Quick Sort
-  - Merge Sort
-- [Other Algorithms](/Other-Algorithms):
-  - Djktras Algorithm
-  - Prims Algorithm
