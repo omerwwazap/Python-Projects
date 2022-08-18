@@ -1,5 +1,5 @@
 # input (file with text,pattern)
-# output (count number occurence of pattern)
+# output (count number occurrence of pattern)
 
 f = open("TEXT.txt", "r")
 
@@ -27,14 +27,14 @@ def bubble(unsortedList):  # modified version the ones we used in java course
 def search3(list, pattern):
     fullcount = list.count(
         pattern
-    )  # buildtin phtyon fucntion to count number of orruences
+    )  # builtin python function to count number of occurrences
     return fullcount
 
 
 text = readfile(f)
 sortedlist = bubble(text)  # new sorted list
 
-print("Your sorted list is ", text)  # debuging list
+print("Your sorted list is ", text)  # debugging list
 my_pattern = input("Give me a string to search: ")
 
 answer = search3(
