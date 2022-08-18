@@ -1,8 +1,3 @@
-# Levent DURDALI
-# 9.07.2019
-# Give all folder names in the specified folder
-
-
 import os
 import tkinter as tk
 from tkinter import filedialog
