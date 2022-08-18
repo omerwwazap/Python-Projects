@@ -15,7 +15,9 @@ Entire Repo is made to archive the lab parts of a course
 - [Desktop Notification](Desktop%20Notifications/)
 - [Language Detection](Language%20Detection/)
 - [Folder Traversal](Folder%20Traversal/)
-- [Get Zip code and other location information from place name](GeoCode/)
+- Location
+  - [Get Zip code and other location information from place name](Locaiton/GeoCode/)
+  - [Get Country Information](Locaiton/Counrty%20Info/)
 - [IP Defang](IP%20Defang/)
 
 - Algorithm Programs:
