@@ -1,0 +1,13 @@
+Black Usage
+--------------------------------------------------------------------------------
+black <folder_name>/
+black <file_name>
+
+
+Venv Creation
+--------------------------------------------------------------------------------
+1 - Set-ExecutionPolicy Unrestricted -Scope Process
+2 - virtualenv.exe <NAME_venv>
+3 - .\<NAME_venv>\Scripts\activate.ps1
+4 - pip install -r requirements.txt
+5 - deactivate
