@@ -1,4 +1,4 @@
-# Python-Projects [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
+# Python-Projects [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Python Algorithm Projects
 
@@ -14,6 +14,7 @@ Entire Repo is made to archive the lab parts of a course
 
 - [Desktop Notification](Desktop%20Notifications/)
 - [Language Detection](Language%20Detection/)
+- [Folder Traversal](Folder%20Traversal/)
 
 - Algorithm Programs:
   - [BubbleSort](Algorithm%20Programs/HomeWork2-Bubble_Sort/)
