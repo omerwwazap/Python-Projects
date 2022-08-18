@@ -16,6 +16,7 @@ Entire Repo is made to archive the lab parts of a course
 - [Language Detection](Language%20Detection/)
 - [Folder Traversal](Folder%20Traversal/)
 - [Get Zip code and other location information from place name](GeoCode/)
+- [IP Defang](IP%20Defang/)
 
 - Algorithm Programs:
   - [BubbleSort](Algorithm%20Programs/HomeWork2-Bubble_Sort/)
