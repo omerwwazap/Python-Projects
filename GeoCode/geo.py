@@ -3,6 +3,7 @@
 #
 
 from geopy.geocoders import Nominatim
+
 geolocation = Nominatim(user_agent="omerwwazap_testing")
 
 place_name = input("Enter place name: ")
