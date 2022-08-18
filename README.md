@@ -12,7 +12,7 @@ Entire Repo is made to archive the lab parts of a course
   - Functions
   - Randint/time
 
-- [Desktop Notification](Desktop_Notifications/)
+- [Desktop Notification](Desktop%20Notifications/)
 - [Language Detection](Language%20Detection/)
 
 - Algorithm Programs:
@@ -41,10 +41,10 @@ Entire Repo is made to archive the lab parts of a course
     - Answer by Sort and Compare
     - Answer by Count and Compare
   
-- [Count Number Occurrence](/Count_Number_Occurence/)
+- [Count Number Occurrence](Count%20Number%20Occurrence/)
 
-- [Divisor Efficiencies Comp](/Python_Divisor_Efficiencies_Comp/):
+- [Divisor Efficiencies Comp](Python%20Divisor%20Efficiencies%20Comp/):
   - Common Divisor Efficiency
 
-- [Dynamic Programming](HomeWork5-Dynamic_Programming/):
+- [Dynamic Programming](Dynamic%20Programming/):
   - Find the smallest sum in a descent from the triangle apex to its base through a sequence of adjacent numbers in an equilateral triangle with n numbers in its base
